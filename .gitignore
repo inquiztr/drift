@@ -1,6 +1,6 @@
 ### PLACE CUSTOM IGNORES HERE
-lib
-es
+#lib
+#es
 .env
 
 
